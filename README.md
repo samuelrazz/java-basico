@@ -2,12 +2,10 @@
 
 Simulando Uma Conta Bancária Através Do Terminal/Console.
 
-## Pré-requisitos:
+## Ferramentas Utilizadas
 
-Lógica de programação e POO;
+ - Lógica de programação;
 
-Conhecimentos básicos em Java;
+ - Conhecimentos básicos em Java;
 
-Computador com SO de sua preferência(Windows, Linux, Mac OS);
-
-IDE (Visual Studio Code, Eclipse, etc);
+ - IDE (IntelliJ);
